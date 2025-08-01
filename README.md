@@ -77,7 +77,7 @@
 
 - Email: **zahranajfiit@gmail.com**
 - GitHub: [@fakhar-zahra](https://github.com/fakhar-zahra)
-- LinkedIn: _coming soon_ 😄
+- LinkedIn: [fakhar-zahra](https://www.linkedin.com/in/fakhar-zahra-16a50a372)
 
 ---
 
