@@ -37,11 +37,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fakhar-zahra&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fakhar-zahra&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+### 🔥 Streak Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhar-zahra&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fakhar-zahra&theme=radical" alt="GitHub Streak" />
+</p>
+
+### 💻 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fakhar-zahra&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
