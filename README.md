@@ -83,16 +83,16 @@
 
 ### 📫 How to Reach Me
 
-- Email: **zahranajfiit@gmail.com**
-- GitHub: [@fakhar-zahra](https://github.com/fakhar-zahra)
-- LinkedIn: [fakhar-zahra](https://www.linkedin.com/in/fakhar-zahra-16a50a372)
+- Email: **zahranajfiit@gmail.com**  
+- GitHub: [@fakhar-zahra](https://github.com/fakhar-zahra)  
+- LinkedIn: [fakhar-zahra](https://www.linkedin.com/in/fakhar-zahra-16a50a372)  
 
 ---
 
 ### ⚡ Fun Fact
 
 > I don’t just automate tasks…  
-> I automate _problems into opportunities_ 💡
+> I automate _problems into opportunities_ 💡  
 
 ---
 
